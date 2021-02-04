@@ -27,6 +27,6 @@ weight.h5 - neural network model weights found from the fitting training data to
 To run cnn.py the following python packages are required in addition to the regular Anaconda 3 installation:
 - tqdm
 - skimage
-- kera
+- keras
 - tensorflow
 
